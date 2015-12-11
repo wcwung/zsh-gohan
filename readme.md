@@ -1,0 +1,1 @@
+A [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) theme based off of `blinks.zsh-theme`. This theme is best used with the .tmux.conf found in the [goku dotfiles](https://github.com/wcwung/dotfiles-goku).
